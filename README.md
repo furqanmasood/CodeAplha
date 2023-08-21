@@ -1,2 +1,2 @@
-# CodeAplha
-Project Tasks Related to Web as intern
+# NetflixClone
+Task 3 of my online internship by CodeAlpha
